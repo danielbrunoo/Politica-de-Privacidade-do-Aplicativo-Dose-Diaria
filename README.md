@@ -57,7 +57,7 @@ As principais funcionalidades incluem:
 - **Excluir medicações**: O usuário pode excluir medicações de sua lista (os lembretes associados são removidos automaticamente)
 - **Notificações**: O aplicativo envia notificações locais para lembrar o usuário de tomar a medicação nos horários programados
 - **Configurações**: O usuário pode configurar horários de acordar e dormir para otimizar o cálculo dos lembretes
-- 
+  
 **Todas essas ações são realizadas localmente no dispositivo do usuário**, e nenhum dado de saúde ou medicação é enviado ou armazenado em servidores externos.
 
 ## Anúncios
