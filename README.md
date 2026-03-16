@@ -1,129 +1,180 @@
-# Política-de-Privacidade-do-Aplicativo-Lembrete-de-Medicação
+# Política-de-Privacidade-do-Aplicativo-Dose-Diaria
 
-**Última atualização: 08 de Dezembro de 2025**
+**Última atualização: 16 de Março de 2026**
 
-Esta Política de Privacidade descreve como o **Lembrete de Medicação** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de lembretes de medicação "Lembrete de Medicação". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
+Esta Política de Privacidade descreve como o aplicativo **Dose Diária** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de lembretes de doses.
 
-## Informações que Coletamos
+O **Dose Diária** é um aplicativo de lembretes que ajuda usuários a organizar horários para doses diárias, como vitaminas, suplementos ou outros itens que precisam ser lembrados ao longo do dia.
 
-### Dados Coletados pelo AdMob (Google Mobile Ads)
+Ao utilizar o aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
 
-O Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar e transmitir as seguintes informações para servidores do Google:
+---
+
+# Informações que Coletamos
+
+## Dados Coletados pelo AdMob (Google Mobile Ads)
+
+O aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar e transmitir as seguintes informações para servidores do Google:
 
 - **ID do dispositivo**: Identificador de publicidade do dispositivo (Advertising ID)
 - **Localização aproximada**: Informações de localização aproximada (quando disponível)
-- **Informações do dispositivo**: Modelo, sistema operacional, versão do sistema
-- **Dados de uso**: Interações com anúncios (cliques, impressões, visualizações de anúncios premiados)
+- **Informações do dispositivo**: Modelo, sistema operacional e versão do sistema
+- **Dados de uso**: Interações com anúncios (cliques, impressões e visualizações de anúncios premiados)
 - **Outros dados técnicos**: Necessários para personalização de anúncios e análise de desempenho
 
-**Finalidade**: Esses dados são coletados e compartilhados com o Google (AdMob) exclusivamente para:
+**Finalidade:** Esses dados são coletados e compartilhados com o Google exclusivamente para:
+
 - Exibição de anúncios personalizados (banner e intersticial premiado)
 - Análise de desempenho dos anúncios
 - Melhoria dos serviços de publicidade
-- Funcionamento do sistema de anúncios premiados (intersticial premiado)
-  
-**Compartilhamento**: Esses dados são compartilhados com o Google (AdMob), conforme descrito na [Política de Privacidade do Google](https://policies.google.com/privacy).
+- Funcionamento do sistema de anúncios premiados
 
-**Criptografia**: Os dados transmitidos pelo AdMob são criptografados em trânsito usando HTTPS.
+**Compartilhamento:** Esses dados são compartilhados com o Google conforme descrito na Política de Privacidade do Google.
 
-### Dados das Medicações (Armazenamento Local)
+**Criptografia:** Os dados transmitidos pelo AdMob são criptografados em trânsito usando HTTPS.
 
-O Aplicativo permite que você crie e gerencie suas medicações e lembretes. **Importante**: Todas as informações sobre suas medicações são armazenadas apenas no seu dispositivo, usando armazenamento local (SQLite).
+---
 
-## Dados armazenados localmente:
-- Informações da medicação: Nome da medicação, intervalo entre doses (em horas), quantidade de dias de uso, horário de início e fim do tratamento
-- Lembretes: Datas e horários programados para tomar a medicação
-- Configurações: Horário de acordar e dormir (para cálculo automático dos lembretes)
-- IDs de notificações: Identificadores locais para gerenciar as notificações do dispositivo
+# Dados do Aplicativo (Armazenamento Local)
 
-## Importante:
+O aplicativo permite que você crie e gerencie **doses e lembretes**.
 
-- **Não coletamos** dados de saúde pessoais
-- **Não transmitimos** suas informações de medicação para servidores externos
-- **Não compartilhamos** suas informações de saúde com terceiros
-- **Não requeremos** criação de conta ou login
+**Importante:** Todas as informações criadas no aplicativo são armazenadas **apenas no seu dispositivo**, utilizando armazenamento local (SQLite).
 
-  Suas informações de medicação permanecem privadas e seguras no seu dispositivo
+## Dados armazenados localmente
 
-## Funcionalidades do Aplicativo
+- Informações das doses: nome, intervalo entre doses (em horas) e duração
+- Lembretes: datas e horários programados para notificações
+- Configurações: horários de acordar e dormir utilizados para cálculo automático dos lembretes
+- IDs de notificações: identificadores locais usados para gerenciar notificações no dispositivo
 
-O Aplicativo permite que os usuários gerenciem lembretes de medicação de forma simples e prática.
-As principais funcionalidades incluem:
+## Importante
 
-- **Adicionar medicações**: O usuário pode inserir informações sobre suas medicações (nome, intervalo entre doses, quantidade de dias, horários de início e fim)
-- **Gerar lembretes automaticamente**: O aplicativo calcula automaticamente os horários para tomar a medicação baseado nos parâmetros informados
-- **Editar medicações**: O usuário pode editar as informações de uma medicação já cadastrada
-- **Editar lembretes individuais**: O usuário pode ajustar horários específicos de lembretes gerados
-- **Excluir medicações**: O usuário pode excluir medicações de sua lista (os lembretes associados são removidos automaticamente)
-- **Notificações**: O aplicativo envia notificações locais para lembrar o usuário de tomar a medicação nos horários programados
-- **Configurações**: O usuário pode configurar horários de acordar e dormir para otimizar o cálculo dos lembretes
-  
-**Todas essas ações são realizadas localmente no dispositivo do usuário**, e nenhum dado de saúde ou medicação é enviado ou armazenado em servidores externos.
+- **Não coletamos dados pessoais sensíveis**
+- **Não transmitimos suas informações para servidores externos**
+- **Não compartilhamos seus dados do aplicativo com terceiros**
+- **Não exigimos criação de conta ou login**
 
-## Anúncios
+Todas as informações permanecem armazenadas **somente no seu dispositivo**.
 
-O Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
+---
 
-## Tipos de anúncios:
-**Banner**: Anúncios em formato banner exibidos em algumas telas do aplicativo
-**Intersticial Premiado**: Anúncios em tela cheia que podem ser assistidos para desbloquear a funcionalidade de adicionar mais medicações (exibido a cada 3 medicações adicionadas)
+# Funcionalidades do Aplicativo
 
-O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
+O aplicativo permite que os usuários gerenciem lembretes de doses de forma simples e prática.
+
+Principais funcionalidades:
+
+- **Adicionar doses**: inserir nome, intervalo entre doses e duração
+- **Gerar lembretes automaticamente**: o aplicativo calcula horários com base nos parâmetros informados
+- **Editar doses**: alterar informações de doses cadastradas
+- **Editar lembretes individuais**: ajustar horários específicos de notificações
+- **Excluir doses**: remover itens cadastrados (os lembretes associados são removidos automaticamente)
+- **Notificações**: envio de notificações locais para lembrar o usuário dos horários programados
+- **Configurações**: definir horários de acordar e dormir para melhorar o cálculo dos lembretes
+
+Todas essas ações são realizadas **localmente no dispositivo do usuário**.
+
+Nenhum dado criado no aplicativo é enviado ou armazenado em servidores externos.
+
+---
+
+# Anúncios
+
+O aplicativo exibe anúncios por meio do **Google AdMob**, plataforma de publicidade do Google.
+
+## Tipos de anúncios
+
+**Banner**  
+Anúncios em formato banner exibidos em algumas telas do aplicativo.
+
+**Intersticial Premiado**  
+Anúncios em tela cheia que podem ser assistidos para desbloquear a funcionalidade de adicionar mais doses (exibido a cada 3 doses adicionadas).
+
+O AdMob pode coletar informações relacionadas à interação com anúncios e dados do dispositivo para:
+
 - Personalização de anúncios
 - Análise de desempenho
 - Otimização da experiência publicitária
 - Funcionamento do sistema de anúncios premiados
-  
-Para mais informações sobre como o AdMob coleta e usa dados, consulte a Política de Privacidade do Google e os Termos de Serviço do AdMob.
 
-## Notificações
+Para mais informações, consulte a Política de Privacidade do Google.
 
-O Aplicativo utiliza o sistema de notificações do dispositivo para enviar lembretes sobre horários de medicação. As notificações são:
+---
 
-**Armazenadas localmente**: Os dados das notificações ficam apenas no seu dispositivo
-**Não compartilhadas**: Não enviamos informações sobre suas notificações para servidores externos
-**Gerenciadas pelo sistema**: As notificações são gerenciadas pelo sistema operacional do seu dispositivo (Android/iOS)
+# Notificações
 
-Você pode gerenciar as permissões de notificação nas configurações do seu dispositivo a qualquer momento.
+O aplicativo utiliza o sistema de notificações do dispositivo para enviar lembretes sobre horários programados.
 
-Não Coleta de Dados Pessoais Identificáveis
+As notificações são:
 
-O Aplicativo *não requer* que você forneça informações pessoais identificáveis como:
+- **Armazenadas localmente** no dispositivo
+- **Não compartilhadas** com servidores externos
+- **Gerenciadas pelo sistema operacional** do dispositivo (Android ou iOS)
+
+Você pode gerenciar ou desativar notificações a qualquer momento nas configurações do seu dispositivo.
+
+---
+
+# Não Coleta de Dados Pessoais Identificáveis
+
+O aplicativo **não requer** que você forneça informações pessoais identificáveis como:
 
 - Nome completo
 - Endereço de e-mail
 - Número de telefone
-- Dados de pagamento ou cartão de crédito
+- Dados de pagamento
 - Informações bancárias
-- Informações médicas detalhadas ou prontuários
-  
-Não coletamos, armazenamos ou compartilhamos dados pessoais identificáveis relacionados às suas medicações ou identidade pessoal.
 
-## Segurança
+Não coletamos, armazenamos ou compartilhamos dados pessoais identificáveis.
 
-Embora o Lembrete de Medicação armazene seus dados apenas localmente no dispositivo, recomendamos que os usuários adotem boas práticas de segurança:
+---
 
-- Manter o dispositivo protegido com senhas, PIN ou outras formas de autenticação
+# Segurança
+
+Embora o aplicativo armazene dados apenas localmente, recomendamos algumas boas práticas de segurança:
+
+- Manter o dispositivo protegido com senha, PIN ou biometria
 - Fazer backup regular dos dados do dispositivo
 - Manter o sistema operacional e o aplicativo atualizados
-- Não compartilhar o dispositivo com pessoas não autorizadas
-- Revisar periodicamente as permissões concedidas ao aplicativo
+- Evitar compartilhar o dispositivo com pessoas não autorizadas
+- Revisar permissões concedidas ao aplicativo
 
-## Seus Direitos
+---
+
+# Seus Direitos
 
 Você tem o direito de:
-- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android (Configurações > Google > Anúncios > Desativar personalização de anúncios) ou iOS (Configurações > Privacidade > Publicidade > Limitar Rastreamento de Publicidade)
-- **Gerenciar notificações**: Você pode ativar ou desativar notificações nas configurações do aplicativo ou do dispositivo
-- **Gerenciar seus dados**: Como todos os dados das medicações ficam no seu dispositivo, você tem controle total sobre eles
-- **Editar ou excluir medicações**: Você pode editar ou excluir qualquer medicação a qualquer momento
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá todos os dados locais
 
-## Alterações nesta Política de Privacidade
+**Desativar anúncios personalizados**  
+Isso pode ser feito nas configurações do seu dispositivo.
 
-Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a qualquer momento. Quando isso acontecer, a data da "Última atualização" no topo desta página será alterada. Recomendamos que você revise periodicamente esta Política para se manter informado sobre como estamos protegendo suas informações.
+**Gerenciar notificações**  
+Você pode ativar ou desativar notificações nas configurações do aplicativo ou do sistema.
 
-## Contato
+**Gerenciar seus dados**  
+Como todos os dados ficam no seu dispositivo, você tem controle total sobre eles.
 
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
+**Editar ou excluir doses**  
+Você pode modificar ou remover qualquer dose cadastrada a qualquer momento.
 
-**Nota**: Esta política está alinhada com os requisitos da Google Play Console e reflete com precisão como o aplicativo coleta, usa e compartilha dados.
+**Desinstalar o aplicativo**  
+A desinstalação remove automaticamente todos os dados armazenados localmente.
+
+---
+
+# Alterações nesta Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade periodicamente.
+
+Quando isso ocorrer, a data de **“Última atualização”** será modificada no topo deste documento.
+
+Recomendamos revisar esta política periodicamente para se manter informado.
+
+---
+
+# Contato
+
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
+
+**codeinnovationmail@gmail.com**
