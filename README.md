@@ -1,6 +1,6 @@
 # Política-de-Privacidade-do-Aplicativo-Dose-Diaria
 
-**Última atualização: 16 de Março de 2026**
+**Última atualização: 18 de Março de 2026**
 
 Esta Política de Privacidade descreve como o aplicativo **Dose Diária** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de lembretes de doses.
 
@@ -52,10 +52,26 @@ O aplicativo permite que você crie e gerencie **doses e lembretes**.
 
 - **Não coletamos dados pessoais sensíveis**
 - **Não transmitimos suas informações para servidores externos**
-- **Não compartilhamos seus dados do aplicativo com terceiros**
+- **Não compartilhamos seus dados com terceiros**
 - **Não exigimos criação de conta ou login**
 
 Todas as informações permanecem armazenadas **somente no seu dispositivo**.
+
+---
+
+# Dados de Saúde
+
+O aplicativo **Dose Diária** não coleta, armazena ou compartilha dados de saúde do usuário.
+
+Embora o aplicativo permita o registro de lembretes de doses (como vitaminas, suplementos ou outros itens), todas essas informações são armazenadas exclusivamente no dispositivo do usuário e não são transmitidas para servidores externos.
+
+O aplicativo não realiza:
+
+- Monitoramento de condições de saúde  
+- Processamento de dados médicos  
+- Diagnóstico, tratamento ou recomendação médica  
+
+Todas as informações inseridas pelo usuário permanecem privadas e sob controle exclusivo do próprio usuário no dispositivo.
 
 ---
 
